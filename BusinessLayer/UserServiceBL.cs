@@ -158,6 +158,9 @@ namespace BusinessLayer
                 throw ex;
             }
         }
+        public void GetRoleNamesAndTypes()
+        {
 
+        }
     }
 }
